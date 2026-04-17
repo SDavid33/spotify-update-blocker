@@ -1,3 +1,7 @@
+![GitHub release](https://img.shields.io/github/v/release/SDavid33/spotify-update-blocker)
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![PowerShell](https://img.shields.io/badge/powershell-supported-blue)
+
 # Spotify Update Blocker (Windows)
 
 Prevent the Spotify Windows app from auto-updating.
