@@ -33,3 +33,7 @@ This script removes and locks the Spotify update folder, preventing the app from
 ## Disclaimer
 
 This is an unofficial workaround and may stop working if Spotify changes how updates are handled.
+
+## Download
+
+[Download latest release](../../releases/latest)
