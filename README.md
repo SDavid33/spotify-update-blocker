@@ -41,3 +41,8 @@ This is an unofficial workaround and may stop working if Spotify changes how upd
 ## Download
 
 [Download latest release](../../releases/latest)
+
+
+## Sponsor
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N0XO52O)
