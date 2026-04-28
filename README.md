@@ -42,6 +42,10 @@ This is an unofficial workaround and may stop working if Spotify changes how upd
 
 [Download latest release](../../releases/latest)
 
+## Older Spotify releases: 
+
+https://loadspot.pages.dev/versions
+
 
 ## Sponsor
 
